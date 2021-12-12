@@ -39,5 +39,5 @@ All the numbers of nums are unique.
 Follow up: Could you implement a solution using only O(1) extra space complexity and O(n) runtime complexity?
 
 ## Answer Details:
-Runtime: 1200 ms, faster than 9.91% of C online submissions for Missing Number.
+Runtime: 1200 ms, faster than 9.91% of C online submissions for Missing Number.  
 Memory Usage: 10.2 MB, less than 5.35% of C online submissions for Missing Number.
