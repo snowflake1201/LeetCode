@@ -1,4 +1,4 @@
-Try to practice "Linked list".  
+Try to practice the "Linked list".  
 Use NTU Prof. PangFeng Liu's [teaching video](https://www.youtube.com/watch?v=v2j9KqpGtCc&list=PLOvZ8aEg7xDnbD7Zq4HHeveJ36MGsnf9l&index=37&ab_channel=PangfengLiu).
 
 
