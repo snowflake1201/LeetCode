@@ -56,8 +56,9 @@ nums2.length == n
 -109 <= nums1[i], nums2[j] <= 109  
  
 
-### Follow up: Can you come up with an algorithm that runs in O(m + n) time?  
+### Follow up: 
+Can you come up with an algorithm that runs in O(m + n) time?  
 
-## Answer
+## Answer Details:
 Runtime: 4 ms, faster than 82.01% of C online submissions for Merge Sorted Array.  
 Memory Usage: 6.2 MB, less than 41.64% of C online submissions for Merge Sorted Array.  
