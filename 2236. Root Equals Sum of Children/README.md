@@ -1,6 +1,6 @@
 Practicing the BT.
 
-##Description:
+## Description:
 You are given the root of a binary tree that consists of exactly 3 nodes: the root, its left child, and its right child.  
 Return true if the value of the root is equal to the sum of the values of its two children, or false otherwise.  
 
@@ -20,11 +20,11 @@ Explanation: The values of the root, its left child, and its right child are 5, 
 5 is not equal to 3 + 1, so we return false.  
  
 
-##Constraints:  
+## Constraints:  
 
 The tree consists only of the root, its left child, and its right child.  
 -100 <= Node.val <= 100  
     
-##Answer Details:  
+## Answer Details:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Root Equals Sum of Children.  
 Memory Usage: 12.6 MB, less than 66.07% of C++ online submissions for Root Equals Sum of Children.  
