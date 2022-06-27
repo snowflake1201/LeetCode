@@ -42,5 +42,6 @@ target node is a node from the original tree and is not null.
 Could you solve the problem if repeated values on the tree are allowed?  
 
 ## Answer Details:  
-Runtime: 1022 ms, faster than 10.38% of C++ online submissions for Find a Corresponding Node of a Binary Tree in a Clone of That Tree.  
-Memory Usage: 163.7 MB, less than 96.25% of C++ online submissions for Find a Corresponding Node of a Binary Tree in a Clone of That Tree.  
+Runtime: 785 ms, faster than 50.21% of C++ online submissions for Find a Corresponding Node of a Binary Tree in a Clone of That Tree.
+Memory Usage: 163.9 MB, less than 81.41% of C++ online submissions for Find a Corresponding Node of a Binary Tree in a Clone of That Tree.
+
