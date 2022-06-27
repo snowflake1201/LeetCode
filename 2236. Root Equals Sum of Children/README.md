@@ -6,6 +6,7 @@ Return true if the value of the root is equal to the sum of the values of its tw
 
 Example 1:  
 
+![image](https://user-images.githubusercontent.com/56119216/175933061-4687cc09-07e3-4717-80ef-989a848a7939.png)
 
 Input: root = [10,4,6]  
 Output: true  
@@ -13,6 +14,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 10 is equal to 4 + 6, so we return true.  
 Example 2:  
 
+![image](https://user-images.githubusercontent.com/56119216/175933093-ae63987a-448e-43a7-baea-8ac892d56f50.png)
 
 Input: root = [5,3,1]  
 Output: false  
