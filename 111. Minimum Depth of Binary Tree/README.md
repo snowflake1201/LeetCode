@@ -16,9 +16,3 @@ Output: 5
 The number of nodes in the tree is in the range [0, 105].  
 -1000 <= Node.val <= 1000  
 
-
-## Answer Details:  
-#### DFS:  
-Runtime: 441 ms, faster than 26.81% of C++ online submissions for Minimum Depth of Binary Tree.  
-Memory Usage: 144.6 MB, less than 91.94% of C++ online submissions for Minimum Depth of Binary Tree.  
-#### BFS:  
