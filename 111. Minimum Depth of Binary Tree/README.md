@@ -4,7 +4,7 @@ The minimum depth is the number of nodes along the shortest path from the root n
 Note: A leaf is a node with no children.  
 
 Example 1:  
-![image](https://user-images.githubusercontent.com/56119216/177152207-4eb095aa-ae24-4122-90e6-e7c128fd2874.png)
+![image](https://user-images.githubusercontent.com/56119216/177152207-4eb095aa-ae24-4122-90e6-e7c128fd2874.png)  
 Input: root = [3,9,20,null,null,15,7]  
 Output: 2  
 
