@@ -27,3 +27,8 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 ### Constraints:  
 
 0 <= n <= 30
+
+
+## faster answer detail:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Fibonacci Number.  
+Memory Usage: 6.1 MB, less than 16.57% of C++ online submissions for Fibonacci Number.  
