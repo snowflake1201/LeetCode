@@ -24,6 +24,6 @@ Output: 3
 Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.    
  
 
-## Constraints:  
+### Constraints:  
 
 0 <= n <= 30
