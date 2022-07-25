@@ -10,6 +10,6 @@ Practice LeetCode problem.
 ## Linklist:  
 82. Use dummy node. 
 83. Remove node.
-876. Use fast slow pointer.(fill later)  
+876. Use fast slow pointer.
 237. Remove node.
 ## Other:  
