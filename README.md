@@ -3,6 +3,7 @@ Practice LeetCode problem.
 94-Use DFS to inorder traversal tree.  
 104-  
 111-  
+1379-  
 ## BFS:
 94-Use BFS to inorder traversal tree.(write me)  
 104-  
