@@ -4,7 +4,8 @@ Given the root of a binary tree, return the preorder traversal of its nodes' val
    
 
 ### Example 1:  
-
+![image](https://user-images.githubusercontent.com/56119216/181095687-ffb607c4-ca3f-4f64-9ca8-401ce2b5c5a7.png)
+  
 
 Input: root = [1,null,2,3]  
 Output: [1,2,3]  
