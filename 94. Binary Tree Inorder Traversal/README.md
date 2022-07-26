@@ -1,6 +1,7 @@
 ## Description:  
 Given the root of a binary tree, return the inorder traversal of its nodes' values.  
 ### Example 1:  
+![image](https://user-images.githubusercontent.com/56119216/181092552-af631ed0-8a26-4050-aa91-2f4028cc62ec.png)
 
   
 Input: root = [1,null,2,3]  
