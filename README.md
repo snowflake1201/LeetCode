@@ -4,10 +4,12 @@ Practice LeetCode problem.
 104-  
 111-  
 1379-  
+114-Use DFS to preorder traversal tree.   
 ## BFS:
-94-Use BFS to inorder traversal tree.(write me)  
+94-Use BFS to inorder traversal a BT.(write me)  
 104-  
 111-  
+114-Use BFS to preorder traversal a BT.(write me)  
 ## DP:  
 509-DP abstract.  
 ## Linklist:  
