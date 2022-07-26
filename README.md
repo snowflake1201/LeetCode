@@ -1,8 +1,10 @@
 Practice LeetCode problem.
 ## DFS:  
+94-Use DFS to inorder traversal tree.  
 104-  
 111-  
-## BFS:  
+## BFS:
+94-Use BFS to inorder traversal tree.  (write me)
 104-  
 111-  
 ## DP:  
