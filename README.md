@@ -17,6 +17,8 @@ Practice LeetCode problem.
 83-Remove node.  
 876-Use fast slow pointer.   
 878-Remove node.  
+## Sorting:  
+69-Use Binary search to achieve sqrt(x).  
 ## Other:  
 118-knew how to use 2D vector.  
 88-knew how to merge two sort.
