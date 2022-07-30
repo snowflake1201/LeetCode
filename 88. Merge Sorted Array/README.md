@@ -64,6 +64,7 @@ Runtime: 4 ms, faster than 82.01% of C online submissions for Merge Sorted Array
 Memory Usage: 6.2 MB, less than 41.64% of C online submissions for Merge Sorted Array.  
 
 ### Follow up answer:  
+O(m + n) time  
 Use an integer number "i" counting from the end of num1 array.  
 the number of "i" is the size of num1 array.  
 then, compare each pair of the last number of num1 array and num2 array.  
