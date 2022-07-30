@@ -4,7 +4,7 @@ Given an integer numRows, return the first numRows of Pascal's triangle.
 In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:  
 
 
- ![image](https://user-images.githubusercontent.com/56119216/181906412-ceff72d5-77ed-43ba-8b9e-8c92758b3c4f.png)
+![image](https://user-images.githubusercontent.com/56119216/181906431-00512b19-2eea-4e5a-9cdd-e7f885679ebf.png)  
 
   
 ### Example 1:   
