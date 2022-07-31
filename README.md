@@ -21,4 +21,4 @@ Practice LeetCode problem.
 69-Use Binary search to achieve sqrt(x).  
 ## Other:  
 118-knew how to use 2D vector.  
-88-knew how to merge two sort.
+88-knew how to merge two sort.  
