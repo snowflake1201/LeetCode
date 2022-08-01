@@ -12,6 +12,7 @@ Practice LeetCode problem.
 114-Use BFS to preorder traversal a BT.(write me)  
 ## DP:  
 509-DP abstract.  
+121-?.  
 ## Linklist:  
 82-Use dummy node.  
 83-Remove node.  
