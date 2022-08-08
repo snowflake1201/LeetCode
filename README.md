@@ -21,6 +21,8 @@ Practice LeetCode problem.
 878-Remove node.  
 ## Sorting:  
 69-Use Binary search to achieve sqrt(x).  
+## Heap:  
+506-know how to use Priority queue(Max heap).  
 ## Other:  
 118-knew how to use 2D vector.  
 88-knew how to merge two sort.  
