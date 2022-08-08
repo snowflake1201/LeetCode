@@ -4,7 +4,7 @@ Practice LeetCode problem.
 104-  
 111-  
 1379-  
-226-DFS framework.
+226-DFS framework.  
 114-Use DFS to preorder traversal tree.   
 ## BFS:
 94-Use BFS to inorder traversal a BT.(write me)  
