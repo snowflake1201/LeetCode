@@ -21,3 +21,7 @@ Output: [2,3,6,7,1,5,4]
 
 The number of nodes in the linked list is in the range [0, 104].  
 -106 <= Node.val <= 106  
+
+## Answer detail:  
+Runtime: 11 ms, faster than 94.06% of C++ online submissions for Odd Even Linked List.  
+Memory Usage: 10.6 MB, less than 29.40% of C++ online submissions for Odd Even Linked List.  
