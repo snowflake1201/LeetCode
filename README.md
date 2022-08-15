@@ -22,6 +22,7 @@ Practice LeetCode problem.
 83-Remove node.  
 876-Use fast slow pointer.   
 878-Remove node.  
+328-Separate linklist to odd and even.  
 ## Sorting:  
 69-Use Binary search to achieve sqrt(x).  
 ## Heap:  
