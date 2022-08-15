@@ -25,3 +25,8 @@ The number of nodes in the linked list is in the range [0, 104].
 ## Answer detail:  
 Runtime: 11 ms, faster than 94.06% of C++ online submissions for Odd Even Linked List.  
 Memory Usage: 10.6 MB, less than 29.40% of C++ online submissions for Odd Even Linked List.  
+  
+Use two pointer to save the head node and head->next node(odd head and even head).  
+change odd next node to next next node and move odd pointer to next next node.  
+even do the same thing like odd.  
+Finally, stick even head behind the odd last node.  
