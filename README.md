@@ -28,6 +28,7 @@ Practice LeetCode problem.
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 ## Graph:  
+1791-konw what is star graph.  
   
 ## Other:  
 118-knew how to use 2D vector.  
