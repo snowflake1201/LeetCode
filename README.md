@@ -27,6 +27,8 @@ Practice LeetCode problem.
 69-Use Binary search to achieve sqrt(x).  
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
+## Graph:  
+  
 ## Other:  
 118-knew how to use 2D vector.  
 88-knew how to merge two sort.  
