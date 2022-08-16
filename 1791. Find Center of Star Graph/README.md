@@ -4,14 +4,14 @@ There is an undirected star graph consisting of n nodes labeled from 1 to n. A s
 You are given a 2D integer array edges where each edges[i] = [ui, vi] indicates that there is an edge between the nodes ui and vi. Return the center of the given star graph.  
 
 ## Example 1:  
-
+![image](https://user-images.githubusercontent.com/56119216/184903885-b0d970c6-4d9b-4d50-acc9-6787ef45e35c.png)
+  
 
 Input: edges = [[1,2],[2,3],[4,2]]  
 Output: 2  
 Explanation: As shown in the figure above, node 2 is connected to every other node, so 2 is the center.  
 ## Example 2:  
-![image](https://user-images.githubusercontent.com/56119216/184903885-b0d970c6-4d9b-4d50-acc9-6787ef45e35c.png)
-  
+
 Input: edges = [[1,2],[5,1],[1,3],[1,4]]  
 Output: 1  
  
