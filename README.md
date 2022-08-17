@@ -1,14 +1,14 @@
 Practice LeetCode problem.
 ## DFS:  
 94-Use DFS to inorder traversal tree.  
-104-  
+104-DFS framework and BT.  
 111-  
 1379-  
 114-Use DFS to preorder traversal tree.   
 226-DFS framework.  
 ## BFS:
 94-Use BFS to inorder traversal a BT.(write me)  
-104-  
+104-BFS framework and BT.    
 111-  
 1379-(write me)  
 114-Use BFS to preorder traversal a BT.(write me)  
