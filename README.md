@@ -6,6 +6,7 @@ Practice LeetCode problem.
 1379-  
 114-Use DFS to preorder traversal tree.   
 226-DFS framework.  
+1971-use DFS to solve graph path-finding problem.  
 ## BFS:
 94-Use BFS to inorder traversal a BT.(write me)  
 104-BFS framework and BT.    
@@ -28,7 +29,8 @@ Practice LeetCode problem.
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 ## Graph:  
-1791-konw what is star graph.  
+1791-konw what is a star graph.  
+1971-use DFS to solve graph path-finding problem.  
   
 ## Other:  
 118-knew how to use 2D vector.  
