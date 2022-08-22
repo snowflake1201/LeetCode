@@ -18,6 +18,7 @@ Practice LeetCode problem.
 509-DP abstract.  
 121-?.  
 122-?.  
+1971-use BFS to solve graph path-finding problem(write me).  
 ## Linklist:  
 82-Use dummy node.  
 83-Remove node.  
