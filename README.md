@@ -1,4 +1,4 @@
-Practice LeetCode problem.
+Practice LeetCode problems.
 ## DFS:  
 94-Use DFS to inorder traversal tree.  
 104-DFS framework and BT.  
