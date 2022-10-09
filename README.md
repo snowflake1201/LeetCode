@@ -25,6 +25,7 @@ Practice LeetCode problems.
 876-Use fast slow pointer.   
 878-Remove node.  
 328-Separate linklist to odd and even.  
+19-Use two ptr to count from the end of linklist.  
 ## Sorting:  
 69-Use Binary search to achieve sqrt(x).  
 ## Heap:  
