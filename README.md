@@ -32,6 +32,8 @@ Practice LeetCode problems.
 ## Graph:  
 1791-konw what is a star graph.  
 1971-use DFS to solve graph path-finding problem.  
+## String:  
+171-change the based carring.  
   
 ## Other:  
 118-knew how to use 2D vector.  
