@@ -19,6 +19,7 @@ Practice LeetCode problems.
 509-DP abstract.  
 121-?.  
 122-?.  
+684-?.  
 ## Linklist:  
 82-Use dummy node.  
 83-Remove node.  
