@@ -40,7 +40,8 @@ Practice LeetCode problems.
 ## Greedy:  
 561-none.  
 942-none.  
-  
+1323-none.  
+
 ## Other:  
 118-knew how to use 2D vector.  
 88-knew how to merge two sort.  
