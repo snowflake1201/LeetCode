@@ -36,6 +36,9 @@ Practice LeetCode problems.
 1971-use DFS to solve graph path-finding problem.  
 ## String:  
 171-change the based carring.  
+
+## Greedy:  
+561-none.  
   
 ## Other:  
 118-knew how to use 2D vector.  
