@@ -39,6 +39,7 @@ Practice LeetCode problems.
 
 ## Greedy:  
 561-none.  
+942-none.  
   
 ## Other:  
 118-knew how to use 2D vector.  
