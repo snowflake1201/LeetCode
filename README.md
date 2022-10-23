@@ -41,6 +41,7 @@ Practice LeetCode problems.
 561-none.  
 942-none.  
 1323-none.  
+★406-?  
 
 ## Other:  
 118-knew how to use 2D vector.  
