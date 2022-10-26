@@ -31,6 +31,7 @@ Practice LeetCode problems.
 69-Use Binary search to achieve sqrt(x).  
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
+23-priority_queue with class & bool operator().  
 ## Graph:  
 1791-konw what is a star graph.  
 1971-use DFS to solve graph path-finding problem.  
@@ -49,4 +50,5 @@ Practice LeetCode problems.
 416-?.  
 
 ## Blind 75:  
-  
+23-heap  
+
