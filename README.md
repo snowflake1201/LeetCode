@@ -32,6 +32,7 @@ Practice LeetCode problems.
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 23-priority_queue with class & bool operator().  
+347-priority_queue with pair.  
 ## Graph:  
 1791-konw what is a star graph.  
 1971-use DFS to solve graph path-finding problem.  
@@ -51,4 +52,5 @@ Practice LeetCode problems.
 
 ## Blind 75:  
 23-heap  
+347-heap  
 
