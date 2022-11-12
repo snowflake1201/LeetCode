@@ -29,7 +29,7 @@ Practice LeetCode problems.
 19-Use two ptr to count from the end of linklist.  
 ## Sorting:  
 69-Use Binary search to achieve sqrt(x).  
-977-(can do better).   
+977-(can do better(two ptr way)).   
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 23-priority_queue with class & bool operator().  
