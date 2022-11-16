@@ -30,6 +30,7 @@ Practice LeetCode problems.
 ## Sorting:  
 69-Use Binary search to achieve sqrt(x).  
 977-(can do better(two ptr way)).   
+35-(can do better).  
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 23-priority_queue with class & bool operator().  
