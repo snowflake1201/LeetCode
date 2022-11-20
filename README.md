@@ -29,8 +29,8 @@ Practice LeetCode problems.
 19-Use two ptr to count from the end of linklist.  
 ## Sorting:  
 69-Use Binary search to achieve sqrt(x).  
-977-(can do better(two ptr way)).   
-35-(can do better(two ptr way)).  
+977-(can do better(Binary search way)).   
+35-(can do better(Binary search way)).  
 374-Using binary search.  
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
