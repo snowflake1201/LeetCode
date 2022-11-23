@@ -36,7 +36,7 @@ Practice LeetCode problems.
 977-(can do better(Binary search way)).   
 35-Using Binary search.  
 374-Using binary search.  
-704-Binary Search.  
+704-Using Binary Search.  
 367-Using binary search.  
   
 ## Heap:  
