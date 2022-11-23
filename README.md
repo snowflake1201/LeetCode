@@ -32,6 +32,7 @@ Practice LeetCode problems.
 977-(can do better(Binary search way)).   
 35-(can do better(Binary search way)).  
 374-Using binary search.  
+704-Binary Search.
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 23-priority_queue with class & bool operator().  
