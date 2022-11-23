@@ -7,6 +7,7 @@ Practice LeetCode problems.
 114-Use DFS to preorder traversal tree.   
 226-DFS framework.  
 1971-use DFS to solve graph path-finding problem.  
+  
 ## BFS:
 94-Use BFS to inorder traversal a BT.(write me)  
 104-BFS framework and BT.    
@@ -15,11 +16,13 @@ Practice LeetCode problems.
 114-Use BFS to preorder traversal a BT.(write me)  
 226-BFS framework.  
 1971-use BFS to solve graph path-finding problem.(write me)  
+  
 ## DP:  
 509-DP abstract.  
 121-?.  
 122-?.  
 684-?.  
+  
 ## Linklist:  
 82-Use dummy node.  
 83-Remove node.  
@@ -27,12 +30,15 @@ Practice LeetCode problems.
 878-Remove node.  
 328-Separate linklist to odd and even.  
 19-Use two ptr to count from the end of linklist.  
+  
 ## Sorting:  
 69-Use Binary search to achieve sqrt(x).  
 977-(can do better(Binary search way)).   
 35-Using Binary search.  
 374-Using binary search.  
-704-Binary Search.
+704-Binary Search.  
+367-Using binary search.  
+  
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 23-priority_queue with class & bool operator().  
