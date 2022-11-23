@@ -14,7 +14,7 @@ Practice LeetCode problems.
 1379-(write me)  
 114-Use BFS to preorder traversal a BT.(write me)  
 226-BFS framework.  
-1971-use BFS to solve graph path-finding problem(write me).  
+1971-use BFS to solve graph path-finding problem.(write me)  
 ## DP:  
 509-DP abstract.  
 121-?.  
