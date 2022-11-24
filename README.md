@@ -38,11 +38,13 @@ Practice LeetCode problems.
 374-Using binary search.  
 704-Using Binary Search.  
 367-Using binary search.  
+875-Using binary search and ceil().  
   
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 23-priority_queue with class & bool operator().  
-347-priority_queue with pair.  
+347-priority_queue with pair.   
+  
 ## Graph:  
 1791-konw what is a star graph.  
 1971-use DFS to solve graph path-finding problem.  
