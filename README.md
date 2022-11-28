@@ -63,7 +63,5 @@ Practice LeetCode problems.
 416-?.  
 441-?.  
 
-## Blind 75:  
-23-heap.  
-347-heap.  
+
 
