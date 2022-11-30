@@ -33,7 +33,7 @@ Practicing LeetCode problems.
   
 ## Sorting:  
 69-Use Binary search to achieve sqrt(x).  
-977-(can do better(Binary search way)).   
+977-(Binary search way)).   
 35-Using Binary search.  
 374-Using binary search.  
 704-Using Binary Search.  
