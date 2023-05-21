@@ -1,3 +1,5 @@
+### Weekly Contest 346
+
 You are given a string s consisting only of uppercase English letters.  
 
 You can apply some operations to this string where, in one operation, you can remove any occurrence of one of the substrings "AB" or "CD" from s.  
