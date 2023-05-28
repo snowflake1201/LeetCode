@@ -40,6 +40,9 @@ Practicing LeetCode problems.
 367-Using binary search.  
 875-Using binary search and ceil().  
   
+## String:  
+6457-removing elements.  
+
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
 23-priority_queue with class & bool operator().  
