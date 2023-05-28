@@ -40,8 +40,6 @@ Practicing LeetCode problems.
 367-Using binary search.  
 875-Using binary search and ceil().  
   
-## String:  
-6457-removing elements.  
 
 ## Heap:  
 506-know how to use Priority queue(Max heap).  
@@ -51,8 +49,10 @@ Practicing LeetCode problems.
 ## Graph:  
 1791-konw what is a star graph.  
 1971-use DFS to solve graph path-finding problem.  
+
 ## String:  
 171-change the based carring.  
+6457-removing elements.  
 
 ## Greedy:  
 561-none.  
